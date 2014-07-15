@@ -1,0 +1,1158 @@
+Setting up our database ... 
+Elapsed time is 17.569967 seconds.
+================================ 
+Searching for functional attribute ...
+Check the AC of the nodes/links, locations of the request node 1
+AC check
+Distance check
+AR check
+
+result =
+
+    10
+
+Node 10 is selected from our virtual resource to build our virtual network 
+================================ 
+Check the AC of the nodes/links, locations of the request node 2
+AC check
+Distance check
+AR check
+
+result =
+
+     5
+
+Node 5 is selected from our virtual resource to build our virtual network 
+================================ 
+Check the AC of the nodes/links, locations of the request node 3
+AC check
+Distance check
+AR check
+
+result =
+
+     9
+
+Node 9 is selected from our virtual resource to build our virtual network 
+================================ 
+Check the AC of the nodes/links, locations of the request node 4
+AC check
+Distance check
+AR check
+
+result =
+
+     8
+
+Node 8 is selected from our virtual resource to build our virtual network 
+================================ 
+Check the AC of the nodes/links, locations of the request node 5
+AC check
+Node doesnt match with node AC requirements!
+Distance check
+Node doesnt match with node distance requirements!
+Node doesnt match with node AC and distance requirements!
+AR check
+================================ 
+Check the AC of the nodes/links, locations of the request node 6
+AC check
+Distance check
+AR check
+
+result =
+
+     1
+
+Node 1 is selected from our virtual resource to build our virtual network 
+================================ 
+Check the AC of the nodes/links, locations of the request node 7
+AC check
+Distance check
+Node doesnt match with node AC and distance requirements!
+AR check
+================================ 
+Check the AC of the nodes/links, locations of the request node 8
+AC check
+Distance check
+Node doesnt match with node AC and distance requirements!
+AR check
+================================ 
+Check the AC of the nodes/links, locations of the request node 9
+AC check
+Distance check
+AR check
+
+result =
+
+   489
+
+Node 489 is selected from our virtual resource to build our virtual network 
+================================ 
+Check the AC of the nodes/links, locations of the request node 10
+AC check
+Distance check
+AR check
+
+result =
+
+   582
+
+Node 582 is selected from our virtual resource to build our virtual network 
+================================ 
+Check the AC of the nodes/links, locations of the request node 11
+AC check
+Distance check
+AR check
+
+result =
+
+    11
+
+Node 11 is selected from our virtual resource to build our virtual network 
+================================ 
+Check the AC of the nodes/links, locations of the request node 12
+AC check
+Distance check
+Node doesnt match with node AC and distance requirements!
+AR check
+================================ 
+Check the AC of the nodes/links, locations of the request node 13
+AC check
+Distance check
+AR check
+
+result =
+
+   809
+
+Node 809 is selected from our virtual resource to build our virtual network 
+================================ 
+Check the AC of the nodes/links, locations of the request node 14
+AC check
+Distance check
+AR check
+
+result =
+
+    14
+
+Node 14 is selected from our virtual resource to build our virtual network 
+================================ 
+Check the AC of the nodes/links, locations of the request node 15
+AC check
+Distance check
+AR check
+
+result =
+
+    15
+
+Node 15 is selected from our virtual resource to build our virtual network 
+================================ 
+Check the AC of the nodes/links, locations of the request node 16
+AC check
+Distance check
+AR check
+
+result =
+
+    16
+
+Node 16 is selected from our virtual resource to build our virtual network 
+================================ 
+Check the AC of the nodes/links, locations of the request node 17
+AC check
+Distance check
+AR check
+
+result =
+
+    17
+
+Node 17 is selected from our virtual resource to build our virtual network 
+================================ 
+Check the AC of the nodes/links, locations of the request node 18
+AC check
+Distance check
+AR check
+
+result =
+
+    18
+
+Node 18 is selected from our virtual resource to build our virtual network 
+================================ 
+Check the AC of the nodes/links, locations of the request node 19
+AC check
+Distance check
+AR check
+
+result =
+
+   718
+
+Node 718 is selected from our virtual resource to build our virtual network 
+================================ 
+Check the AC of the nodes/links, locations of the request node 20
+AC check
+Distance check
+AR check
+
+result =
+
+    20
+
+Node 20 is selected from our virtual resource to build our virtual network 
+================================ 
+Check the AC of the nodes/links, locations of the request node 21
+AC check
+Distance check
+AR check
+
+result =
+
+   720
+
+Node 720 is selected from our virtual resource to build our virtual network 
+================================ 
+Check the AC of the nodes/links, locations of the request node 22
+AC check
+Distance check
+AR check
+
+result =
+
+    22
+
+Node 22 is selected from our virtual resource to build our virtual network 
+================================ 
+Check the AC of the nodes/links, locations of the request node 23
+AC check
+Distance check
+AR check
+
+result =
+
+    23
+
+Node 23 is selected from our virtual resource to build our virtual network 
+================================ 
+Check the AC of the nodes/links, locations of the request node 24
+AC check
+Distance check
+AR check
+
+result =
+
+    24
+
+Node 24 is selected from our virtual resource to build our virtual network 
+================================ 
+Check the AC of the nodes/links, locations of the request node 25
+AC check
+Distance check
+AR check
+
+result =
+
+    25
+
+Node 25 is selected from our virtual resource to build our virtual network 
+================================ 
+Check the AC of the nodes/links, locations of the request node 26
+AC check
+Distance check
+AR check
+
+result =
+
+    26
+
+Node 26 is selected from our virtual resource to build our virtual network 
+================================ 
+Check the AC of the nodes/links, locations of the request node 27
+AC check
+Distance check
+AR check
+
+result =
+
+    27
+
+Node 27 is selected from our virtual resource to build our virtual network 
+================================ 
+Check the AC of the nodes/links, locations of the request node 28
+AC check
+Distance check
+AR check
+
+result =
+
+    28
+
+Node 28 is selected from our virtual resource to build our virtual network 
+================================ 
+Check the AC of the nodes/links, locations of the request node 29
+AC check
+Distance check
+AR check
+
+result =
+
+    29
+
+Node 29 is selected from our virtual resource to build our virtual network 
+================================ 
+Check the AC of the nodes/links, locations of the request node 30
+AC check
+Distance check
+Node doesnt match with node AC and distance requirements!
+AR check
+================================ 
+Check the AC of the nodes/links, locations of the request node 31
+AC check
+Distance check
+Node doesnt match with node distance requirements!
+Node doesnt match with node AC and distance requirements!
+AR check
+================================ 
+Check the AC of the nodes/links, locations of the request node 32
+AC check
+Distance check
+AR check
+
+result =
+
+   558
+
+Node 558 is selected from our virtual resource to build our virtual network 
+================================ 
+Check the AC of the nodes/links, locations of the request node 33
+AC check
+Distance check
+AR check
+
+result =
+
+   156
+
+Node 156 is selected from our virtual resource to build our virtual network 
+================================ 
+Check the AC of the nodes/links, locations of the request node 34
+AC check
+Distance check
+Node doesnt match with node distance requirements!
+Node doesnt match with node AC and distance requirements!
+AR check
+================================ 
+Check the AC of the nodes/links, locations of the request node 35
+AC check
+Distance check
+AR check
+
+result =
+
+   264
+
+Node 264 is selected from our virtual resource to build our virtual network 
+================================ 
+Check the AC of the nodes/links, locations of the request node 36
+AC check
+Distance check
+Node doesnt match with node AC and distance requirements!
+AR check
+================================ 
+Check the AC of the nodes/links, locations of the request node 37
+AC check
+Node doesnt match with node AC requirements!
+Distance check
+Node doesnt match with node distance requirements!
+Node doesnt match with node AC and distance requirements!
+AR check
+================================ 
+Check the AC of the nodes/links, locations of the request node 38
+AC check
+Node doesnt match with node AC requirements!
+Distance check
+Node doesnt match with node distance requirements!
+Node doesnt match with node AC and distance requirements!
+AR check
+================================ 
+Check the AC of the nodes/links, locations of the request node 39
+AC check
+Node doesnt match with node AC requirements!
+Distance check
+Node doesnt match with node distance requirements!
+Node doesnt match with node AC and distance requirements!
+AR check
+================================ 
+Check the AC of the nodes/links, locations of the request node 40
+AC check
+Node doesnt match with node AC requirements!
+Distance check
+Node doesnt match with node distance requirements!
+Node doesnt match with node AC and distance requirements!
+AR check
+================================ 
+Check the AC of the nodes/links, locations of the request node 41
+AC check
+Distance check
+AR check
+
+result =
+
+   175
+
+Node 175 is selected from our virtual resource to build our virtual network 
+================================ 
+Check the AC of the nodes/links, locations of the request node 42
+AC check
+Distance check
+Node doesnt match with node distance requirements!
+Node doesnt match with node AC and distance requirements!
+AR check
+================================ 
+Check the AC of the nodes/links, locations of the request node 43
+AC check
+Distance check
+AR check
+
+result =
+
+   299
+
+Node 299 is selected from our virtual resource to build our virtual network 
+================================ 
+Check the AC of the nodes/links, locations of the request node 44
+AC check
+Distance check
+AR check
+
+result =
+
+   373
+
+Node 373 is selected from our virtual resource to build our virtual network 
+================================ 
+Check the AC of the nodes/links, locations of the request node 45
+AC check
+Distance check
+Node doesnt match with node AC and distance requirements!
+AR check
+================================ 
+Check the AC of the nodes/links, locations of the request node 46
+AC check
+Distance check
+AR check
+
+result =
+
+    90
+
+Node 90 is selected from our virtual resource to build our virtual network 
+================================ 
+Check the AC of the nodes/links, locations of the request node 47
+AC check
+Distance check
+AR check
+
+result =
+
+    91
+
+Node 91 is selected from our virtual resource to build our virtual network 
+================================ 
+Check the AC of the nodes/links, locations of the request node 48
+AC check
+Distance check
+AR check
+
+result =
+
+    92
+
+Node 92 is selected from our virtual resource to build our virtual network 
+================================ 
+Check the AC of the nodes/links, locations of the request node 49
+AC check
+Distance check
+AR check
+
+result =
+
+    93
+
+Node 93 is selected from our virtual resource to build our virtual network 
+================================ 
+Check the AC of the nodes/links, locations of the request node 50
+AC check
+Distance check
+AR check
+
+result =
+
+    94
+
+Node 94 is selected from our virtual resource to build our virtual network 
+================================ 
+Check the AC of the nodes/links, locations of the request node 51
+AC check
+Distance check
+AR check
+
+result =
+
+    95
+
+Node 95 is selected from our virtual resource to build our virtual network 
+================================ 
+Check the AC of the nodes/links, locations of the request node 52
+AC check
+Distance check
+AR check
+
+result =
+
+    96
+
+Node 96 is selected from our virtual resource to build our virtual network 
+================================ 
+Check the AC of the nodes/links, locations of the request node 53
+AC check
+Distance check
+AR check
+
+result =
+
+    97
+
+Node 97 is selected from our virtual resource to build our virtual network 
+================================ 
+Check the AC of the nodes/links, locations of the request node 54
+AC check
+Distance check
+AR check
+
+result =
+
+    98
+
+Node 98 is selected from our virtual resource to build our virtual network 
+================================ 
+Check the AC of the nodes/links, locations of the request node 55
+AC check
+Node doesnt match with node AC requirements!
+Distance check
+Node doesnt match with node AC and distance requirements!
+AR check
+================================ 
+Elapsed time is 714.728307 seconds.
+================================ 
+Check the AC/delay/packetloss of the links of k-shortest path,and return the best one
+Working on link no. 1 from request
+AC check
+Delay check
+Packeloss check
+
+Selected_index =
+
+     1     2     3     4
+
+Path 1 is candidate from our virtual resource to build our virtual network 
+Its nodes are: 
+10 1 96 75 5 
+Final costs satisfy our expectations and its value is ....
+
+final =
+
+   19.8100
+
+================================ 
+Working on link no. 2 from request
+AC check
+Delay check
+Link doesnt match with delay requirements!
+Packeloss check
+
+Selected_index =
+
+   Empty matrix: 1-by-0
+
+No Paths for link no. 2 is found! 
+================================ 
+Working on link no. 3 from request
+This link doesnt exist, No source or destination nodes are found.
+================================ 
+Working on link no. 4 from request
+AC check
+Delay check
+Packeloss check
+
+Selected_index =
+
+     1     2     3     4
+
+Path 1 is candidate from our virtual resource to build our virtual network 
+Its nodes are: 
+8 46 28 96 1 
+Final costs satisfy our expectations and its value is ....
+
+final =
+
+   18.6800
+
+================================ 
+Working on link no. 5 from request
+This link doesnt exist, No source or destination nodes are found.
+================================ 
+Working on link no. 6 from request
+This link doesnt exist, No source or destination nodes are found.
+================================ 
+Working on link no. 7 from request
+This link doesnt exist, No source or destination nodes are found.
+================================ 
+Working on link no. 8 from request
+This link doesnt exist, No source or destination nodes are found.
+================================ 
+Working on link no. 9 from request
+AC check
+Delay check
+Packeloss check
+
+Selected_index =
+
+     1     2     3     4
+
+Path 1 is candidate from our virtual resource to build our virtual network 
+Its nodes are: 
+489 490 491 492 493 494 495 496 497 498 499 500 501 502 503 504 505 506 507 508 509 510 511 512 513 514 515 516 517 518 519 520 521 522 523 524 525 526 527 528 529 530 531 532 533 534 535 536 537 538 539 540 541 542 543 544 545 546 547 548 549 550 551 552 553 554 555 556 557 558 559 560 561 562 563 564 565 566 567 568 569 570 571 572 573 574 575 576 577 578 579 580 581 582 583 584 585 586 587 588 589 590 591 592 593 594 595 596 597 598 599 600 601 602 603 604 605 606 607 608 609 610 611 612 613 614 615 616 617 618 619 620 621 622 623 624 625 626 627 628 629 630 631 632 633 634 635 636 637 638 639 640 641 642 643 644 645 646 647 648 649 650 651 652 653 654 655 656 657 658 659 660 661 662 663 664 665 666 667 668 669 670 671 672 673 674 675 676 677 678 679 680 681 682 683 684 685 686 687 688 689 690 691 692 693 694 695 696 697 698 699 700 701 702 703 704 25 89 97 91 
+Final costs satisfy our expectations and its value is ....
+
+final =
+
+  994.1100
+
+================================ 
+Working on link no. 10 from request
+AC check
+Link doesnt match with link AC requirements!
+Delay check
+Packeloss check
+Link doesnt match with packet loss requirements!
+
+Selected_index =
+
+   Empty matrix: 1-by-0
+
+No Paths for link no. 10 is found! 
+================================ 
+Working on link no. 11 from request
+AC check
+Delay check
+Packeloss check
+
+Selected_index =
+
+     1     2     3     4
+
+Path 1 is candidate from our virtual resource to build our virtual network 
+Its nodes are: 
+11 99 96 33 78 23 
+Final costs satisfy our expectations and its value is ....
+
+final =
+
+   24.9400
+
+================================ 
+Working on link no. 12 from request
+This link doesnt exist, No source or destination nodes are found.
+================================ 
+Working on link no. 13 from request
+This link doesnt exist, No source or destination nodes are found.
+================================ 
+Working on link no. 14 from request
+This link doesnt exist, No source or destination nodes are found.
+================================ 
+Working on link no. 15 from request
+This link doesnt exist, No source or destination nodes are found.
+================================ 
+Working on link no. 16 from request
+This link doesnt exist, No source or destination nodes are found.
+================================ 
+Working on link no. 17 from request
+This link doesnt exist, No source or destination nodes are found.
+================================ 
+Working on link no. 18 from request
+This link doesnt exist, No source or destination nodes are found.
+================================ 
+Working on link no. 19 from request
+This link doesnt exist, No source or destination nodes are found.
+================================ 
+Working on link no. 20 from request
+This link doesnt exist, No source or destination nodes are found.
+================================ 
+Working on link no. 21 from request
+This link doesnt exist, No source or destination nodes are found.
+================================ 
+Working on link no. 22 from request
+This link doesnt exist, No source or destination nodes are found.
+================================ 
+Working on link no. 23 from request
+This link doesnt exist, No source or destination nodes are found.
+================================ 
+Working on link no. 24 from request
+This link doesnt exist, No source or destination nodes are found.
+================================ 
+Working on link no. 25 from request
+This link doesnt exist, No source or destination nodes are found.
+================================ 
+Working on link no. 26 from request
+This link doesnt exist, No source or destination nodes are found.
+================================ 
+Working on link no. 27 from request
+This link doesnt exist, No source or destination nodes are found.
+================================ 
+Working on link no. 28 from request
+This link doesnt exist, No source or destination nodes are found.
+================================ 
+Working on link no. 29 from request
+This link doesnt exist, No source or destination nodes are found.
+================================ 
+Working on link no. 30 from request
+This link doesnt exist, No source or destination nodes are found.
+================================ 
+Working on link no. 31 from request
+This link doesnt exist, No source or destination nodes are found.
+================================ 
+Working on link no. 32 from request
+This link doesnt exist, No source or destination nodes are found.
+================================ 
+Working on link no. 33 from request
+This link doesnt exist, No source or destination nodes are found.
+================================ 
+Working on link no. 34 from request
+This link doesnt exist, No source or destination nodes are found.
+================================ 
+Working on link no. 35 from request
+This link doesnt exist, No source or destination nodes are found.
+================================ 
+Working on link no. 36 from request
+This link doesnt exist, No source or destination nodes are found.
+================================ 
+Working on link no. 37 from request
+This link doesnt exist, No source or destination nodes are found.
+================================ 
+Working on link no. 38 from request
+This link doesnt exist, No source or destination nodes are found.
+================================ 
+Working on link no. 39 from request
+This link doesnt exist, No source or destination nodes are found.
+================================ 
+Working on link no. 40 from request
+This link doesnt exist, No source or destination nodes are found.
+================================ 
+Working on link no. 41 from request
+This link doesnt exist, No source or destination nodes are found.
+================================ 
+Working on link no. 42 from request
+This link doesnt exist, No source or destination nodes are found.
+================================ 
+Working on link no. 43 from request
+AC check
+Delay check
+Packeloss check
+
+Selected_index =
+
+     1     2     3     4
+
+Path 1 is candidate from our virtual resource to build our virtual network 
+Its nodes are: 
+299 298 297 296 295 294 293 292 291 290 289 288 287 286 285 284 283 282 281 280 279 278 277 276 275 274 273 272 271 270 269 268 267 266 265 264 263 262 261 260 259 258 257 256 255 254 253 252 251 250 249 248 247 246 245 244 243 242 241 240 239 238 237 236 235 234 233 232 231 230 229 228 227 226 225 224 223 222 221 220 219 218 217 216 215 214 213 212 211 210 209 208 207 206 205 204 203 202 201 200 199 198 197 196 195 194 193 192 191 190 189 188 187 186 185 184 183 182 181 180 179 178 177 176 175 174 173 172 171 170 169 168 167 166 165 164 163 162 161 160 159 158 157 156 155 154 153 152 151 150 149 148 147 146 145 144 143 142 141 140 139 138 137 136 135 134 133 132 131 130 129 128 127 126 125 124 123 122 121 120 119 118 117 116 115 114 113 112 111 110 109 108 107 106 105 104 103 102 101 96 97 91 
+Final costs satisfy our expectations and its value is ....
+
+final =
+
+  906.8300
+
+================================ 
+Working on link no. 44 from request
+AC check
+Delay check
+Packeloss check
+
+Selected_index =
+
+     1     2     3     4
+
+Path 1 is candidate from our virtual resource to build our virtual network 
+Its nodes are: 
+373 372 371 370 369 368 367 366 365 364 363 362 361 360 359 358 357 356 355 354 353 352 351 350 349 348 347 346 345 344 343 342 341 340 339 338 337 336 335 334 333 332 331 330 329 328 327 326 325 324 323 322 321 320 319 318 317 316 315 314 313 312 311 310 309 308 307 306 305 304 303 302 301 300 299 298 297 296 295 294 293 292 291 290 289 288 287 286 285 284 283 282 281 280 279 278 277 276 275 274 273 272 271 270 269 268 267 266 265 264 263 262 261 260 259 258 257 256 255 254 253 252 251 250 249 248 247 246 245 244 243 242 241 240 239 238 237 236 235 234 233 232 231 230 229 228 227 226 225 224 223 222 221 220 219 218 217 216 215 214 213 212 211 210 209 208 207 206 205 204 203 202 201 200 199 198 197 196 195 194 193 192 191 190 189 188 187 186 185 184 183 182 181 180 179 178 177 176 175 174 173 172 171 170 169 168 167 166 165 164 163 162 161 160 159 158 157 156 155 154 153 152 151 150 149 148 147 146 145 144 143 142 141 140 139 138 137 136 135 134 133 132 131 130 129 128 127 126 125 124 123 122 121 120 119 118 117 116 115 114 113 112 111 110 109 108 107 106 105 104 103 102 101 96 97 92 
+Final costs satisfy our expectations and its value is ....
+
+final =
+
+  1.2422e+003
+
+================================ 
+Working on link no. 45 from request
+This link doesnt exist, No source or destination nodes are found.
+================================ 
+Working on link no. 46 from request
+AC check
+Delay check
+Packeloss check
+
+Selected_index =
+
+     1     2     3     4
+
+Path 1 is candidate from our virtual resource to build our virtual network 
+Its nodes are: 
+90 97 94 
+Final costs satisfy our expectations and its value is ....
+
+final =
+
+   11.3400
+
+================================ 
+Working on link no. 47 from request
+This link doesnt exist, No source or destination nodes are found.
+================================ 
+Working on link no. 48 from request
+This link doesnt exist, No source or destination nodes are found.
+================================ 
+Working on link no. 49 from request
+AC check
+Delay check
+Packeloss check
+
+Selected_index =
+
+     1     2     3     4
+
+Path 1 is candidate from our virtual resource to build our virtual network 
+Its nodes are: 
+93 97 96 1 10 45 22 701 700 699 698 697 696 695 694 693 692 691 690 689 688 687 686 685 684 683 682 681 680 679 678 677 676 675 674 673 672 671 670 669 668 667 666 665 664 663 662 661 660 659 658 657 656 655 654 653 652 651 650 649 648 647 646 645 644 643 642 641 640 639 638 637 636 635 634 633 632 631 630 629 628 627 626 625 624 623 622 621 620 619 618 617 616 615 614 613 612 611 610 609 608 607 606 605 604 603 602 601 600 599 598 597 596 595 594 593 592 591 590 589 588 587 586 585 584 583 582 581 580 579 578 577 576 575 574 573 572 571 570 569 568 567 566 565 564 563 562 561 560 559 558 
+Final costs satisfy our expectations and its value is ....
+
+final =
+
+  677.2800
+
+================================ 
+Working on link no. 50 from request
+AC check
+Delay check
+Packeloss check
+
+Selected_index =
+
+     1     2     3     4
+
+Path 1 is candidate from our virtual resource to build our virtual network 
+Its nodes are: 
+94 97 96 101 102 103 104 105 106 107 108 109 110 111 112 113 114 115 116 117 118 119 120 121 122 123 124 125 126 127 128 129 130 131 132 133 134 135 136 137 138 139 140 141 142 143 144 145 146 147 148 149 150 151 152 153 154 155 156 
+Final costs satisfy our expectations and its value is ....
+
+final =
+
+  262.0500
+
+================================ 
+Working on link no. 51 from request
+This link doesnt exist, No source or destination nodes are found.
+================================ 
+Working on link no. 52 from request
+AC check
+Delay check
+Packeloss check
+
+Selected_index =
+
+     1     2     3     4
+
+Path 1 is candidate from our virtual resource to build our virtual network 
+Its nodes are: 
+96 101 102 103 104 105 106 107 108 109 110 111 112 113 114 115 116 117 118 119 120 121 122 123 124 125 126 127 128 129 130 131 132 133 134 135 136 137 138 139 140 141 142 143 144 145 146 147 148 149 150 151 152 153 154 155 156 157 158 159 160 161 162 163 164 165 166 167 168 169 170 171 172 173 174 175 176 177 178 179 180 181 182 183 184 185 186 187 188 189 190 191 192 193 194 195 196 197 198 199 200 201 202 203 204 205 206 207 208 209 210 211 212 213 214 215 216 217 218 219 220 221 222 223 224 225 226 227 228 229 230 231 232 233 234 235 236 237 238 239 240 241 242 243 244 245 246 247 248 249 250 251 252 253 254 255 256 257 258 259 260 261 262 263 264 
+Final costs satisfy our expectations and its value is ....
+
+final =
+
+  742.1400
+
+================================ 
+Working on link no. 53 from request
+This link doesnt exist, No source or destination nodes are found.
+================================ 
+Working on link no. 54 from request
+This link doesnt exist, No source or destination nodes are found.
+================================ 
+Working on link no. 55 from request
+This link doesnt exist, No source or destination nodes are found.
+================================ 
+Working on link no. 56 from request
+This link doesnt exist, No source or destination nodes are found.
+================================ 
+Working on link no. 57 from request
+This link doesnt exist, No source or destination nodes are found.
+================================ 
+Working on link no. 58 from request
+This link doesnt exist, No source or destination nodes are found.
+================================ 
+Working on link no. 59 from request
+AC check
+Delay check
+Packeloss check
+
+Selected_index =
+
+     1     2     3     4
+
+Path 1 is candidate from our virtual resource to build our virtual network 
+Its nodes are: 
+809 10 1 96 101 102 103 104 105 106 107 108 109 110 111 112 113 114 115 116 117 118 119 120 121 122 123 124 125 126 127 128 129 130 131 132 133 134 135 136 137 138 139 140 141 142 143 144 145 146 147 148 149 150 151 152 153 154 155 156 
+Final costs satisfy our expectations and its value is ....
+
+final =
+
+  264.7200
+
+================================ 
+Working on link no. 60 from request
+This link doesnt exist, No source or destination nodes are found.
+================================ 
+Working on link no. 61 from request
+AC check
+Delay check
+Packeloss check
+
+Selected_index =
+
+     1     2     3     4
+
+Path 1 is candidate from our virtual resource to build our virtual network 
+Its nodes are: 
+15 96 101 102 103 104 105 106 107 108 109 110 111 112 113 114 115 116 117 118 119 120 121 122 123 124 125 126 127 128 129 130 131 132 133 134 135 136 137 138 139 140 141 142 143 144 145 146 147 148 149 150 151 152 153 154 155 156 157 158 159 160 161 162 163 164 165 166 167 168 169 170 171 172 173 174 175 176 177 178 179 180 181 182 183 184 185 186 187 188 189 190 191 192 193 194 195 196 197 198 199 200 201 202 203 204 205 206 207 208 209 210 211 212 213 214 215 216 217 218 219 220 221 222 223 224 225 226 227 228 229 230 231 232 233 234 235 236 237 238 239 240 241 242 243 244 245 246 247 248 249 250 251 252 253 254 255 256 257 258 259 260 261 262 263 264 
+Final costs satisfy our expectations and its value is ....
+
+final =
+
+  747.1400
+
+================================ 
+Working on link no. 62 from request
+This link doesnt exist, No source or destination nodes are found.
+================================ 
+Working on link no. 63 from request
+This link doesnt exist, No source or destination nodes are found.
+================================ 
+Working on link no. 64 from request
+This link doesnt exist, No source or destination nodes are found.
+================================ 
+Working on link no. 65 from request
+AC check
+Delay check
+Packeloss check
+
+Selected_index =
+
+     3     4
+
+Path 3 is candidate from our virtual resource to build our virtual network 
+Its nodes are: 
+718 719 720 41 9 
+Final costs satisfy our expectations and its value is ....
+
+final =
+
+   18.1400
+
+================================ 
+Working on link no. 66 from request
+This link doesnt exist, No source or destination nodes are found.
+================================ 
+Working on link no. 67 from request
+AC check
+Delay check
+Packeloss check
+
+Selected_index =
+
+     1     2     3     4
+
+Path 1 is candidate from our virtual resource to build our virtual network 
+Its nodes are: 
+720 41 9 2 10 1 
+Warning: Concatenation involves an empty array with an incorrect number of rows.
+This may not be allowed in a future release. 
+> In COST at 26
+  In aggregation at 85
+  In main_project at 35
+Final costs satisfy our expectations and its value is ....
+
+final =
+
+   20.3100
+
+================================ 
+Warning: Concatenation involves an empty array with an incorrect number of rows.
+This may not be allowed in a future release. 
+> In DelayRanking at 36
+  In aggregation at 93
+  In main_project at 35
+Working on link no. 68 from request
+AC check
+Delay check
+Packeloss check
+
+Selected_index =
+
+     1     2     3     4
+
+Path 1 is candidate from our virtual resource to build our virtual network 
+Its nodes are: 
+22 701 700 699 698 697 696 695 694 693 692 691 690 689 688 687 686 685 684 683 682 681 680 679 678 677 676 675 674 673 672 671 670 669 668 667 666 665 664 663 662 661 660 659 658 657 656 655 654 653 652 651 650 649 648 647 646 645 644 643 642 641 640 639 638 637 636 635 634 633 632 631 630 629 628 627 626 625 624 623 622 621 620 619 618 617 616 615 614 613 612 611 610 609 608 607 606 605 604 603 602 601 600 599 598 597 596 595 594 593 592 591 590 589 588 587 586 585 584 583 582 
+Final costs satisfy our expectations and its value is ....
+
+final =
+
+  546.6700
+
+================================ 
+Working on link no. 69 from request
+This link doesnt exist, No source or destination nodes are found.
+================================ 
+Working on link no. 70 from request
+AC check
+Delay check
+Packeloss check
+
+Selected_index =
+
+     1     2     3     4
+
+Path 1 is candidate from our virtual resource to build our virtual network 
+Its nodes are: 
+24 70 98 
+Final costs satisfy our expectations and its value is ....
+
+final =
+
+   12.1400
+
+================================ 
+Working on link no. 71 from request
+AC check
+Delay check
+Packeloss check
+
+Selected_index =
+
+     1     2     3     4
+
+Path 1 is candidate from our virtual resource to build our virtual network 
+Its nodes are: 
+25 89 97 
+Final costs satisfy our expectations and its value is ....
+
+final =
+
+   11.3700
+
+================================ 
+Working on link no. 72 from request
+AC check
+Delay check
+Packeloss check
+
+Selected_index =
+
+     1     2     3     4
+
+Path 1 is candidate from our virtual resource to build our virtual network 
+Its nodes are: 
+26 96 101 102 103 104 105 106 107 108 109 110 111 112 113 114 115 116 117 118 119 120 121 122 123 124 125 126 127 128 129 130 131 132 133 134 135 136 137 138 139 140 141 142 143 144 145 146 147 148 149 150 151 152 153 154 155 156 157 158 159 160 161 162 163 164 165 166 167 168 169 170 171 172 173 174 175 176 177 178 179 180 181 182 183 184 185 186 187 188 189 190 191 192 193 194 195 196 197 198 199 200 201 202 203 204 205 206 207 208 209 210 211 212 213 214 215 216 217 218 219 220 221 222 223 224 225 226 227 228 229 230 231 232 233 234 235 236 237 238 239 240 241 242 243 244 245 246 247 248 249 250 251 252 253 254 255 256 257 258 259 260 261 262 263 264 265 266 267 268 269 270 271 272 273 274 275 276 277 278 279 280 281 282 283 284 285 286 287 288 289 290 291 292 293 294 295 296 297 298 299 
+Final costs satisfy our expectations and its value is ....
+
+final =
+
+  904.1600
+
+================================ 
+Working on link no. 73 from request
+AC check
+Delay check
+Packeloss check
+
+Selected_index =
+
+     4
+
+Path 4 is candidate from our virtual resource to build our virtual network 
+Its nodes are: 
+27 55 88 97 96 101 102 103 104 105 106 107 108 109 110 111 112 113 114 115 116 117 118 119 120 121 122 123 124 125 126 127 128 129 130 131 132 133 134 135 136 137 138 139 140 141 142 143 144 145 146 147 148 149 150 151 152 153 154 155 156 157 158 159 160 161 162 163 164 165 166 167 168 169 170 171 172 173 174 175 176 177 178 179 180 181 182 183 184 185 186 187 188 189 190 191 192 193 194 195 196 197 198 199 200 201 202 203 204 205 206 207 208 209 210 211 212 213 214 215 216 217 218 219 220 221 222 223 224 225 226 227 228 229 230 231 232 233 234 235 236 237 238 239 240 241 242 243 244 245 246 247 248 249 250 251 252 253 254 255 256 257 258 259 260 261 262 263 264 265 266 267 268 269 270 271 272 273 274 275 276 277 278 279 280 281 282 283 284 285 286 287 288 289 290 291 292 293 294 295 296 297 298 299 300 301 302 303 304 305 306 307 308 309 310 311 312 313 314 315 316 317 318 319 320 321 322 323 324 325 326 327 328 329 330 331 332 333 334 335 336 337 338 339 340 341 342 343 344 345 346 347 348 349 350 351 352 353 354 355 356 357 358 359 360 361 362 363 364 365 366 367 368 369 370 371 372 373 
+Final costs satisfy our expectations and its value is ....
+
+final =
+
+  1.2514e+003
+
+================================ 
+Working on link no. 74 from request
+This link doesnt exist, No source or destination nodes are found.
+================================ 
+Working on link no. 75 from request
+AC check
+Delay check
+Packeloss check
+
+Selected_index =
+
+     1     2     3     4
+
+Path 1 is candidate from our virtual resource to build our virtual network 
+Its nodes are: 
+29 96 97 90 
+Final costs satisfy our expectations and its value is ....
+
+final =
+
+   14.1400
+
+================================ 
+Working on link no. 76 from request
+This link doesnt exist, No source or destination nodes are found.
+================================ 
+Working on link no. 77 from request
+This link doesnt exist, No source or destination nodes are found.
+================================ 
+Working on link no. 78 from request
+AC check
+Link doesnt match with link AC requirements!
+Delay check
+Packeloss check
+
+Selected_index =
+
+   Empty matrix: 1-by-0
+
+No Paths for link no. 78 is found! 
+================================ 
+Working on link no. 79 from request
+AC check
+Link doesnt match with link AC requirements!
+Delay check
+Packeloss check
+
+Selected_index =
+
+   Empty matrix: 1-by-0
+
+No Paths for link no. 79 is found! 
+================================ 
+Working on link no. 80 from request
+This link doesnt exist, No source or destination nodes are found.
+================================ 
