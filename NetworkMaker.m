@@ -13,11 +13,11 @@ function NetworkMaker(NodeNumber)
 % Layer 8:  Link Type:
 
 %==============================================================
-% Saba Behrouznia
+% Alireza Saberi
 % Concordia University, Montreal, QC, Canada
-% 2011- 2013
+% 2009-2011
 %==============================================================
-%  DATE :            October 2013                                 
+%  DATE :            October 2011                                 
 %  Last Updated:    
 %  ---- Changes month day year: ----
 %  

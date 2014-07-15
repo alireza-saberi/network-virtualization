@@ -30,13 +30,12 @@ function result = VirtualResourceSearch(Specs)
 
 % Link Type : 1 = VLAN, 2 = SONET , 3 = 802.11
 %==============================================================
-% Saba Behrouznia
+% Alireza Saberi
 % Concordia University, Montreal, QC, Canada
-% 2011- 2013
+% 2009- 2011
 %==============================================================
-%  DATE :            October 2013                                 
+%  DATE :            October 2011                                
 %  Last Updated:    
-%  ---- Changes month day year: ----
 %  
 %==============================================================
 

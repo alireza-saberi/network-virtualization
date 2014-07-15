@@ -1,3 +1,6 @@
+% This program
+% Fall 2013
+% Concordia University
 function SabaNetworkMaker(NodeNumber)
 % Function SabaNetworkMaker(NodeNumber) 
 % returns the K first shortest paths (k_paths) from node source to node destination
@@ -16,6 +19,12 @@ function SabaNetworkMaker(NodeNumber)
 %  DATE :           December 2011                              
 %  Last Updated:    
 %  ----Changes April 2 2010:----
+%  1-previous version(9/12/2009)did not handle some exceptions which should
+%    have returned empty matrices for the return values (added lines 20 and 29)
+%  2-includes the changes proposed by Darren Rowland
+%  ----Changes January 6 2011:----
+%  1-fixed a bug reported by Babak Zafari that prevented from finding ALL
+%    the shortest paths in large networks
 %==============================================================
 
 

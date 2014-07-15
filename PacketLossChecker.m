@@ -3,11 +3,11 @@ function Path_index = PacketLossChecker(Father,PPKLoss_Min)
 % PcketLoss, selects the one that is needed,then updates it with new AC
 % AC = Available Capacity
 %==============================================================
-% Saba Behrouznia
+% Alireza Saberi
 % Concordia University, Montreal, QC, Canada
-% 2011- 2013
+% 2009-2011
 %==============================================================
-%  DATE :            October 2013                                 
+%  DATE :            October 2011                                 
 %  Last Updated:    
 %  ---- Changes month day year: ----
 %  

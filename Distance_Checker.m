@@ -4,11 +4,11 @@ function result = Distance_Checker(Net,input_nodes,required_X,required_Y,require
 % Net is our input network of nodes
 % Required_AC is our desirable CPU available capacity
 %==============================================================
-% Saba Behrouznia
+% Alireza Saberi
 % Concordia University, Montreal, QC, Canada
-% 2011- 2013
+% 2009-2011
 %==============================================================
-%  DATE :            October 2013                                 
+%  DATE :            October 2011                                 
 %  Last Updated:    
 %  ---- Changes month day year: ----
 %  

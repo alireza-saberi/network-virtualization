@@ -4,13 +4,12 @@ function Path_index = ACChecker(Path_Link_property,AC_Min)
 
 % AC = Available Capacity
 %==============================================================
-% Saba Behrouznia
+% Alireza Saberi
 % Concordia University, Montreal, QC, Canada
-% 2011- 2013
+% 2009- 2011
 %==============================================================
-%  DATE :            October 2013                                 
+%  DATE :            October 2011                                
 %  Last Updated:    
-%  ---- Changes month day year: ----
 %  
 %==============================================================
 L1=length(Path_Link_property);

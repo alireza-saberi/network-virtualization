@@ -6,7 +6,7 @@ function result = ACCPU_Checker(Net,input_nodes,required_AC)
 %==============================================================
 % Alireza Saberi
 % Concordia University, Montreal, QC, Canada
-% 2009-2011
+% 2011- 2013
 %==============================================================
 %  DATE :            October 2011                                 
 %  Last Updated:    

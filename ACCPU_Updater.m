@@ -5,13 +5,12 @@ function Net = ACCPU_Updater(Net,result,required_AC)
 % result is the input node number matrix
 
 %==============================================================
-% Saba Behrouznia
+% Alireza Saberi
 % Concordia University, Montreal, QC, Canada
 % 2011- 2013
 %==============================================================
 %  DATE :            October 2013                                 
 %  Last Updated:    
-%  ---- Changes month day year: ----
 %  
 %==============================================================
 AC_old= Net(:,11);

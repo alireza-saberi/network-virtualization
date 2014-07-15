@@ -4,14 +4,13 @@ function TotalDelay = DelayRanking(shortestPaths,Selected_index)
 % Delay, Delay, PacketLoss, and Available Capacity
 % path cell and delivering new cell, with all of links properties
 %==============================================================
-% Links Behrouznia
+% Alireza Saberi
 % Concordia University, Montreal, QC, Canada
-% 2011- 2013
+% 2009-2011
 %==============================================================
-%  DATE :            December 2013                                 
+%  DATE :            December 2011                                
 %  Last Updated:    
-%  ---- Changes month day year: ----
-%  
+  
 %============================================================== 
 Links= xlsread('VirtualResources.xlsx','Links');
 [LRow,LCol] = size(Links);

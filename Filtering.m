@@ -3,14 +3,14 @@ function Filtering(input_nodes,kk)% change = input_nodes
 % available capacity, and distances of the nodes, and then gives new row
 % vector of nodes
 %==============================================================
-% Saba Behrouznia
+% Alireza Saberi
 % Concordia University, Montreal, QC, Canada
-% 2011- 2013
+% 2009-2011
 %==============================================================
-%  DATE :            October 2013                                 
+%  DATE :            October 2011                                 
 %  Last Updated:    
 %  ---- Changes month day year: ----
-%  Nobmber 2013
+%  
 %==============================================================
 Net= xlsread('VirtualResources.xlsx','Nodes');
 NN = xlsread('VNRnetwork.xlsx','Nodes');

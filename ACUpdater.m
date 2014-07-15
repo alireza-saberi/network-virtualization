@@ -2,13 +2,12 @@ function ACUpdater(shortestPaths, Selected_index, required_BW)
 
 % Function ACUpdater(Father,index, required_AC) is responsible for updating Ac based on selected path 
 %==============================================================
-% Saba Behrouznia
+% Alireza Saberi
 % Concordia University, Montreal, QC, Canada
-% 2011- 2013
+% 2009- 2011
 %==============================================================
-%  DATE :            October 2013                                 
+%  DATE :            October 2011                                 
 %  Last Updated:    
-%  ---- Changes month day year: ----
 %  
 %============================================================== 
 Links= xlsread('VirtualResources.xlsx','Links');

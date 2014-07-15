@@ -2,11 +2,11 @@ function Path_Link_property = LinkPropertyMaker(shortestPaths)
 % Function Father = LinkPropertyMaker(shortestPaths) is responsible for taking shortest 
 % path cell and delivering new cell, with all of links properties
 %==============================================================
-% Saba Behrouznia
+% Alireza Saberi
 % Concordia University, Montreal, QC, Canada
-% 2011- 2013
+% 2009-2011
 %==============================================================
-%  DATE :            October 2013                                 
+%  DATE :            October 2011                                 
 %  Last Updated:    
 %  ---- Changes month day year: ----
 %  
